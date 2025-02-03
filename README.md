@@ -2,7 +2,7 @@
 
 PCI Explorer is a PCIe topology explorer and visualizer. The generated tree can be visualized and each element inspected using a simple terminal UI designed with the bubbletea framework.
 
-<img width="1070" alt="Screenshot 2025-01-29 at 7 03 50 PM" src="https://github.com/user-attachments/assets/92bcf5d1-6f77-4374-bee1-edc491c80024" />
+![Screenshot 2025-02-03 at 5 24 40 PM](https://github.com/user-attachments/assets/4a0fcaf6-50de-4a78-a7bb-430c89f41f46)
 
 ## Installation
 
