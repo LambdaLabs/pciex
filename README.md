@@ -1,3 +1,5 @@
+![linkedin - personal - banner - opt2 - dark (1)](https://github.com/user-attachments/assets/fdb97570-cf55-42c8-b7c5-7190f23d2523)
+
 # pciex
 
 PCI Explorer is a PCIe topology explorer and visualizer. The generated tree can be visualized and each element inspected using a simple terminal UI designed with the bubbletea framework.
