@@ -7,7 +7,7 @@ permissions:
 jobs:
   release:
     environment: release
-    runs-on: lambda-ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
         with:
